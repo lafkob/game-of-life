@@ -1,1 +1,1 @@
-This is our test project
+Basic game of life project w/ maven.
